@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Lyra-dri/Lyra-dri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Adriano, estou iniciando na programação agora, nunca tive conhecimento algum com tudo isso, mas hoje ja posso dizer que ja tenho um conhecimento basico na programação:
+<br>
+<br>
+<br>
 
-Here are some ideas to get you started:
+<a href= "https://tava-dificil-demais.netlify.app"><img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href= "https://dificil-mas-nao-impossivel.netlify.app"><img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+
+<a href= "https://app.netlify.com/teams/adrianodelyra/overview"><img src= "https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
+
+<a href= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
