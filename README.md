@@ -11,4 +11,4 @@ Meu nome é Adriano, estou iniciando na programação agora, nunca tive conhecim
 
 <a href= "https://app.netlify.com/teams/adrianodelyra/overview"><img src= "https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
 
-<a href= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href= "https://www.linkedin.com/in/adriano-lyra-8468b2185/"> <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
